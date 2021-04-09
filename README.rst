@@ -23,9 +23,9 @@ Overview
     :alt: Travis-CI Build Status
     :target: https://travis-ci.com/github/jpardovega/libtemplate
 
-.. |requires| image:: https://requires.io/github/jpardovega/libtemplate/requirements.svg?branch=master
-    :alt: Requirements Status
-    :target: https://requires.io/github/jpardovega/libtemplate/requirements/?branch=master
+.. .. |requires| image:: https://requires.io/github/jpardovega/libtemplate/requirements.svg?branch=master
+..     :alt: Requirements Status
+..     :target: https://requires.io/github/jpardovega/libtemplate/requirements/?branch=master
 
 .. |codecov| image:: https://codecov.io/gh/jpardovega/libtemplate/branch/master/graphs/badge.svg?branch=master
     :alt: Coverage Status
@@ -49,7 +49,7 @@ Overview
 
 .. |commits-since| image:: https://img.shields.io/github/commits-since/jpardovega/libtemplate/v0.0.1.svg
     :alt: Commits since latest release
-    :target: https://github.com/jpardovega/libtemplate/compare/v0.0.0...master
+    :target: https://github.com/jpardovega/libtemplate/compare/v0.0.1...master
 
 
 
