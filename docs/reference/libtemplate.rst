@@ -1,9 +1,30 @@
-libtemplate
-===========
+libtemplate package
+===================
 
-.. testsetup::
+Submodules
+----------
 
-    from libtemplate import *
+libtemplate.cli module
+----------------------
+
+.. automodule:: libtemplate.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+libtemplate.dummy module
+------------------------
+
+.. automodule:: libtemplate.dummy
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
 
 .. automodule:: libtemplate
-    :members:
+   :members:
+   :undoc-members:
+   :show-inheritance:

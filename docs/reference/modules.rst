@@ -4,4 +4,4 @@ libtemplate
 .. toctree::
    :maxdepth: 4
 
-   setup
+   libtemplate
