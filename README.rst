@@ -47,7 +47,7 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/libtemplate
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/jpardovega/libtemplate/v0.0.5.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/jpardovega/libtemplate/v0.0.6.svg
     :alt: Commits since latest release
     :target: https://github.com/jpardovega/libtemplate/compare/v0.0.1...master
 
