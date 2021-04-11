@@ -7,6 +7,7 @@ name = "pypi"
 libtemplate = {editable = true, path = "."}
 pandas = "*"
 numpy = "*"
+jupyter = "*"
 
 [dev-packages]
 pipenv-setup = "*"
