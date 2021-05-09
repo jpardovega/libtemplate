@@ -25,7 +25,7 @@ setup(
     use_scm_version={
         "local_scheme": "dirty-tag",
         "write_to": "src/libtemplate/_version.py",
-        "fallback_version": "0.0.9",
+        "fallback_version": "0.1.0",
     },
     description="Template for python packages generated with cookiecutter-pylibrary",
     long_description="%s\n%s"

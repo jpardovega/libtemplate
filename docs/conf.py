@@ -27,7 +27,7 @@ try:
     version = release = get_distribution("libtemplate").version
 except Exception:
     traceback.print_exc()
-    version = release = "0.0.9"
+    version = release = "0.1.0"
 
 pygments_style = "trac"
 templates_path = ["."]
